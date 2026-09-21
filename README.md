@@ -2,8 +2,8 @@
 
 ### Robotics Researcher | Aerial Manipulation · Robot Control · Model-Based Control
 
-🎓 **M.S. Student** in Mechanical Design and Robot Engineering, SEOULTECH  
-🔬 **Graduate Researcher** at Mobile Robotics Laboratory (MRL)
+🎓 **M.S. Student** in Mechanical Design and Robot Engineering, SEOULTECH [🔗](https://www.seoultech.ac.kr/)  
+🔬 **Graduate Researcher** at Mobile Robotics Lab. (MRL) [🔗](https://mrl.seoultech.ac.kr)
 
 <br>
 
@@ -33,8 +33,16 @@
 
 ## Projects
 
+### 🙏🏻 HiH
+***2026.08 ~ Present***
+
+- **Description:** Leader–Payload–Follower cooperative aerial transport for nonprehensile payload manipulation.
+- **Keywords:** Cooperative Aerial Transport · Nonprehensile Manipulation · Payload Transportation
+
+---
+
 ### 🐉 T-PAM
-**2025.10 ~ Present**
+***2025.10 ~ Present***
 
 - **Description:** `To be updated`
 - **Keywords:** `To be updated`
@@ -42,50 +50,42 @@
 ---
 
 ### 🌲 CHR
-**2025.09 ~ Present**
+***2025.09 ~ Present***
 
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
-
----
-
-### 🙏🏻 HiH
-**2026.08 ~ Present**
-
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
+- **Description:** Aerial manipulator for autonomous cone harvesting in forest environments.
+- **Keywords:** Aerial Manipulation · Robotic Harvesting · Task-Space Control · Autonomous Manipulation
 
 ---
 
 ### 🪱 IAM
-**2024.10 ~ 2025.08**
+***2024.10 ~ 2025.08***
 
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
+- **Description:** Reconfigurable aerial manipulator with inchworm locomotion for dynamic morphology adaptation across diverse tasks.
+- **Keywords:** Reconfigurable Aerial Manipulator · Inchworm Robot · Fully-Actuated Multirotor
 
 ---
 
 ### 🦩 TAJO
-**2024.08 ~ 2025.02**
+***2024.08 ~ 2025.02***
 
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
+- **Description:** Development of an upgraded Palletrone platform through Pixhawk-based flight control and redesigned hardware.
+- **Keywords:** Fully-Actuated Multirotor · Pixhawk · Flight Control · Hardware Integration
 
 ---
 
 ### 🦾 SEDASOM
-**2024.02 ~ 2024.10**
+***2024.02 ~ 2024.10***
 
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
+- **Description:** Aerial manipulator with series-elastic actuation for compliant physical interaction.
+- **Keywords:** Series Elastic Actuator · Passive Compliance · Compliant Control · Aerial Physical Interaction
 
 ---
 
 ### 🦋 DOB on Crazyflie
-**2023.07 ~ 2023.08**
+***2023.07 ~ 2023.08***
 
-- **Description:** `To be updated`
-- **Keywords:** `To be updated`
+- **Description:** Disturbance observer-based flight control for robust stabilization of a Crazyflie quadrotor.
+- **Keywords:** Disturbance Observer · Robust Control · Quadrotor Control · Crazyflie
 
 <br>
 
