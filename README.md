@@ -9,25 +9,24 @@
 
 ### 🛠 Tech Stack
 
-#### Programming & Robotics
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square)
-![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=flat&logo=mathworks&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![acados](https://img.shields.io/badge/acados-222222?style=flat-square)
-![CasADi](https://img.shields.io/badge/CasADi-2C5AA0?style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Design Tools
+![acados](https://img.shields.io/badge/acados-333333?style=flat)
+![CasADi](https://img.shields.io/badge/CasADi-2962FF?style=flat)
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat-square)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FC7F12?style=flat-square&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
+![Fusion%20360](https://img.shields.io/badge/Fusion%20360-FC6D26?style=flat&logo=autodesk&logoColor=white)
 
 <br>
 
