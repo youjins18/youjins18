@@ -19,7 +19,7 @@
 ![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=flat&logo=mathworks&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ![acados](https://img.shields.io/badge/acados-333333?style=flat)
 ![CasADi](https://img.shields.io/badge/CasADi-2962FF?style=flat)
