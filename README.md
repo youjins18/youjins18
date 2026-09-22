@@ -15,23 +15,21 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=flat&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat)
+![Simulink](https://img.shields.io/badge/Simulink-FC6D26?style=flat)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-![PX4](https://img.shields.io/badge/PX4-005CB9?style=flat)
-![Pixhawk](https://img.shields.io/badge/Pixhawk-1A1A1A?style=flat)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-0055A4?style=flat)
-![RViz](https://img.shields.io/badge/RViz-22314E?style=flat&logo=ros&logoColor=white)
+<img src="https://raw.githubusercontent.com/PX4/PX4-graphics/master/PX4_Logo_White_RGB.svg" height="20"> ![Pixhawk](https://img.shields.io/badge/Pixhawk-1A1A1A?style=flat)
+<img src="https://raw.githubusercontent.com/google-deepmind/mujoco/main/banner.png" height="20"> ![RViz](https://img.shields.io/badge/RViz-22314E?style=flat&logo=ros&logoColor=white)
 
 ![acados](https://img.shields.io/badge/acados-333333?style=flat)
 ![CasADi](https://img.shields.io/badge/CasADi-2962FF?style=flat)
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=flat)
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-ED1C24?style=flat)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
-![Fusion%20360](https://img.shields.io/badge/Fusion%20360-FC6D26?style=flat&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FC6D26?style=flat&logo=autodesk&logoColor=white)
 
 <br>
 
@@ -80,7 +78,7 @@
 ### 🦾 SEDASOM
 ***2024.02 ~ 2024.10***
 
-- **Description:** Aerial manipulator with series-elastic actuation for compliant physical interaction.
+- **Description:** Aerial manipulator with series-elastic damping actuation for compliant aerial physical interaction.
 - **Keywords:** Series Elastic Actuator · Passive Compliance · Compliant Control · Aerial Physical Interaction
 
 ---
