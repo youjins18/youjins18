@@ -21,6 +21,11 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+![PX4](https://img.shields.io/badge/PX4-005CB9?style=flat)
+![Pixhawk](https://img.shields.io/badge/Pixhawk-1A1A1A?style=flat)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-0055A4?style=flat)
+![RViz](https://img.shields.io/badge/RViz-22314E?style=flat&logo=ros&logoColor=white)
+
 ![acados](https://img.shields.io/badge/acados-333333?style=flat)
 ![CasADi](https://img.shields.io/badge/CasADi-2962FF?style=flat)
 
